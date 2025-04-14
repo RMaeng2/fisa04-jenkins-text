@@ -9,3 +9,5 @@ migrations/
 test.db
 
 .env
+
+# 테스트중입니다.
