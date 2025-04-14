@@ -11,6 +11,7 @@ import config
 # flask db migrate
 # flask db upgrade 
 
+# 테스트중입니다.
 
 naming_convention = {
     "ix": 'ix_%(column_0_label)s',
